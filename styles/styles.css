@@ -336,3 +336,15 @@ img {
 .model-z .price {
   font-size: 6rem;
 }
+
+.newsletter {}
+
+.container-newsletter {}
+
+.text-newsletter {}
+
+.form {}
+
+.form input[type="text"] {}
+
+.form input[type="submit"] {}
